@@ -46,15 +46,15 @@ h3{
 }
 @media (max-width: 500px) {
     .container{
-        width: 250px;
-        padding: 1rem 0.5rem;
-        font-size: 13px;
+        width: 280px;
+        padding: 2rem 0.5rem;
+        /* font-size: 13px; */
     }
     .content{
-        margin: 1rem 0.5rem;
+        margin: 2rem 0.5rem;
    
     }
     h3, .btn{
-        font-size: 10px;
+        font-size: 14px;
     }
 }
